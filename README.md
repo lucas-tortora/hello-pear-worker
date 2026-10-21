@@ -16,21 +16,19 @@ Companion application boilerplates:
 
 ## Table of Contents
 
-- [hello-pear-worker](#hello-pear-worker)
-  - [Table of Contents](#table-of-contents)
-  - [Related Repositories](#related-repositories)
-  - [How It Works](#how-it-works)
-    - [Runtime Selection](#runtime-selection)
-    - [Arguments](#arguments)
-    - [IPC Protocol](#ipc-protocol)
-    - [Updates](#updates)
-    - [Storage](#storage)
-  - [Usage](#usage)
-    - [Shared Cross-Platform Backend](#shared-cross-platform-backend)
-    - [Embedded Application Worker](#embedded-application-worker)
-    - [Starting the Worker](#starting-the-worker)
-  - [Scripts](#scripts)
-  - [License](#license)
+- [Related Repositories](#related-repositories)
+- [How It Works](#how-it-works)
+  - [Runtime Selection](#runtime-selection)
+  - [Arguments](#arguments)
+  - [IPC Protocol](#ipc-protocol)
+  - [Updates](#updates)
+  - [Storage](#storage)
+- [Usage](#usage)
+  - [Shared Cross-Platform Backend](#shared-cross-platform-backend)
+  - [Embedded Application Worker](#embedded-application-worker)
+  - [Starting the Worker](#starting-the-worker)
+- [Scripts](#scripts)
+- [License](#license)
 
 ## Related Repositories
 
